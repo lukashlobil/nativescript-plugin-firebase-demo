@@ -13,6 +13,7 @@
     }
   },
   "dependencies": {
+    "nativescript-google-maps-sdk": "^1.4.3",
     "nativescript-plugin-firebase": "^3.8.0",
     "tns-core-modules": "2.4.0"
   },
